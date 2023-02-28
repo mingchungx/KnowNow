@@ -1,5 +1,7 @@
 # KnowNow
 
+##### Built with: Swift, SwiftUI, and OpenAI
+
 KnowNow is an iOS mobile app that uses OpenAI's natural language processing AI to generate responses to your questions, while providing credible MLA cited sources to the response.
 
 
